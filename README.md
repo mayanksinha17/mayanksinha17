@@ -1,31 +1,31 @@
 <div align="center">
 
-<!-- Header Capsule Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=180,00f2fe,4facfe,7928ca&height=220&section=header&text=Kumar%20Mayank&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20DevOps%20Enthusiast%20%7C%20Open-Source%20Contributor&descFontSize=15&descAlignY=58" width="100%" alt="Kumar Mayank Header" />
+<!-- Header Capsule Banner (Deep Navy -> Electric Blue -> Violet -> Cyan) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=180,06b6d4,2563eb,7c3aed,0d1117&height=200&section=header&text=Kumar%20Mayank&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20DevOps%20Enthusiast%20%7C%20Open-Source%20Contributor&descFontSize=14&descAlignY=58" width="100%" alt="Kumar Mayank Header" />
 
-<!-- Professional Typing Subtitle -->
-<p align="center">
+<!-- Animated Typing Subtitle -->
+<p align="center" style="margin-top: -6px; margin-bottom: 12px;">
   <a href="https://github.com/mayanksinha17">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Full-Stack+Developer+%7C+Backend+Engineer;DevOps+Enthusiast+%7C+Open-Source+Contributor;B.Tech+Data+Science+Engineering+%40+DSCE+Bengaluru;Building+Scalable+Backends+%26+Cloud-Native+Tooling;Active+Contributor+to+Hiero+Ledger+%26+OpenFoodFacts" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Backend+Engineer;DevOps+Enthusiast+%7C+Open-Source+Contributor;B.Tech+Data+Science+Engineering+%40+DSCE+Bengaluru;Building+Scalable+Backends+%26+Cloud-Native+Tooling;Active+Contributor+to+Hiero+Ledger+%26+OpenFoodFacts" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Verified Profile Badges -->
-<p align="center">
+<!-- Compact Social Navigation -->
+<p align="center" style="margin-top: 4px; margin-bottom: 20px;">
   <a href="https://linkedin.com/in/kumar-mayank-7b924a337" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/mayanksinha17/kumar-mayank-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=0d1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:mk3631780@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mk3631780%40gmail.com-7928CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/mayanksinha17">
-    <img src="https://img.shields.io/badge/GitHub-mayanksinha17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -35,20 +35,38 @@
 
 ### 💫 About Me
 
-```yaml
-name: Kumar Mayank
-positioning: Full-Stack Developer | Backend Engineer | DevOps Enthusiast | Open-Source Contributor
-education: B.Tech in Data Science Engineering, Dayananda Sagar College of Engineering (DSCE), Bengaluru
-academics: Class of 2028 | CGPA: 8.91
-activities: Active Member @ AWS Cloud Club, DSCE
-problem_solving: 350+ coding problems solved across LeetCode, Codeforces & GeeksforGeeks
-core_interests: Backend Architecture, RESTful APIs, Containerization, Distributed Tooling
-seeking: Software Development Engineer (SDE) Internships & Open-Source Collaboration
-```
-
-> I am a **Data Science Engineering** undergraduate at **DSCE Bengaluru** with a focused interest in **backend engineering, scalable web applications, and DevOps workflows**. I prioritize clean software design, verifiable technical implementations, and production reliability.
+> I am a **Data Science Engineering** undergraduate at **Dayananda Sagar College of Engineering (DSCE), Bengaluru** with a focused interest in **backend architecture, full-stack systems, and DevOps automation**. I emphasize clean code, verified technical implementations, and production reliability.
 >
-> My hands-on development includes building full-stack applications with **Node.js, Express, FastAPI, React, and Next.js**, persisting data with **MongoDB, PostgreSQL, and SQLite**, and managing reproducible environments with **Docker and GitHub Actions**. In the open-source ecosystem, I actively contribute to projects including **Hiero Ledger Solo** (7 merged pull requests) and **OpenFoodFacts** (merged pull request #15114).
+> My development spans building high-performance web applications using **Node.js, Express, FastAPI, React, and Next.js**, managing robust data tiers across **PostgreSQL, MongoDB, and SQLite**, and deploying containerized environments using **Docker and GitHub Actions**. In open source, I am an active contributor to foundational tools with **7 merged pull requests** in **Hiero Ledger Solo** and a merged PR in **OpenFoodFacts**.
+
+<table width="100%">
+  <tr>
+    <td width="33.3%" valign="top">
+      <h4>🎓 Education & Academics</h4>
+      <p>
+        <strong>B.Tech — Data Science Engineering</strong><br/>
+        <sub>Dayananda Sagar College of Engineering, Bengaluru</sub><br/>
+        <sub>Class of <strong>2028</strong> • Cumulative CGPA: <strong>8.91</strong></sub>
+      </p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>⚡ Problem Solving</h4>
+      <p>
+        <strong>350+ Coding Problems Solved</strong><br/>
+        <sub>Active across LeetCode, Codeforces & GeeksforGeeks</sub><br/>
+        <sub>Core focus on Data Structures & Algorithmic Optimization</sub>
+      </p>
+    </td>
+    <td width="33.3%" valign="top">
+      <h4>🤝 Community & Status</h4>
+      <p>
+        <strong>AWS Cloud Club Member</strong><br/>
+        <sub>Active participant in cloud workshops & architectural sessions</sub><br/>
+        <sub>Actively seeking <strong>SDE Internships</strong></sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -78,11 +96,11 @@ seeking: Software Development Engineer (SDE) Internships & Open-Source Collabora
     <td width="50%" valign="top">
       <h3 align="left">🚛 <a href="https://github.com/mayanksinha17/FleetMind">FleetMind</a></h3>
       <p><strong>Real-Time Road Transport Telemetry & ML ETA Platform</strong></p>
-      <p>Fleet monitoring and logistics management platform featuring real-time vehicle telemetry streaming and machine learning-powered ETA prediction.</p>
+      <p>Logistics platform processing real-time vehicle telemetry and estimating arrival times using a dedicated machine learning inference service.</p>
       <ul>
         <li>Real-time vehicle telemetry broadcast via <strong>Socket.IO</strong> WebSockets</li>
-        <li>Interactive route plotting and map visualization using <strong>Leaflet</strong> & <code>react-leaflet</code></li>
-        <li>Integrated ML service utilizing a trained <strong>Random Forest Regressor</strong> served via <strong>FastAPI</strong></li>
+        <li>Interactive route plotting and geospatial visualization with <strong>Leaflet</strong> & <code>react-leaflet</code></li>
+        <li>Trained <strong>Random Forest Regressor</strong> inference service served via <strong>FastAPI</strong></li>
         <li>Backend REST APIs managing trucks, routes, shipments, and trips with <strong>MongoDB</strong></li>
       </ul>
       <p>
@@ -100,10 +118,10 @@ seeking: Software Development Engineer (SDE) Internships & Open-Source Collabora
     <td width="50%" valign="top">
       <h3 align="left">⚡ <a href="https://github.com/mayanksinha17/Personal-Task-Automator">Personal Task Automator</a></h3>
       <p><strong>Full-Stack Task Management & Prioritization System</strong></p>
-      <p>Productivity application providing CRUD task lifecycle management, automated rule-based task prioritization, and operational analytics.</p>
+      <p>Productivity platform providing CRUD task lifecycle management, multi-tiered algorithmic task prioritization, and operational analytics.</p>
       <ul>
-        <li>Automated task sorting engine ordering tasks by priority tier (High, Medium, Low) and deadline</li>
-        <li>In-memory relational persistence powered by <strong>SQLite (sql.js)</strong> with automated disk synchronization</li>
+        <li>Automated task ordering engine sorting tasks by priority tier (High, Medium, Low) and deadline</li>
+        <li>In-memory relational persistence powered by <strong>SQLite (sql.js)</strong> with disk synchronization</li>
         <li>Task status toggling with ISO completion timestamps and aggregate statistical metrics</li>
         <li>Modular Express.js routing architecture with dedicated endpoints for tasks and analytics</li>
       </ul>
@@ -123,10 +141,10 @@ seeking: Software Development Engineer (SDE) Internships & Open-Source Collabora
     <td width="50%" valign="top">
       <h3 align="left">🛡️ <a href="https://github.com/mayanksinha17/QR-Based-Attendance-System">QR-Based Attendance System</a></h3>
       <p><strong>Role-Based Attendance Management Backend</strong></p>
-      <p>Backend platform for academic attendance tracking supporting role-based workflows for Students, Professors, and Administrative entities.</p>
+      <p>Academic attendance platform supporting structured multi-role workflows for Students, Professors, and Administrative entities.</p>
       <ul>
         <li>Secure user authentication and session management using <strong>JWT</strong> and <strong>bcrypt</strong> password hashing</li>
-        <li>Class session lifecycle: professors initiate sessions with designated class codes for student check-ins</li>
+        <li>Class session lifecycle: professors initiate sessions with designated codes for student check-ins</li>
         <li>Normalized MongoDB schema modeling across Students, Professors, Classes, and Attendance records</li>
         <li>Asynchronous Express controller architecture with centralized error handling middleware</li>
       </ul>
@@ -144,11 +162,11 @@ seeking: Software Development Engineer (SDE) Internships & Open-Source Collabora
     <td width="50%" valign="top">
       <h3 align="left">📊 <a href="https://github.com/mayanksinha17/bizpro-analytics-dashboard">BizPro Analytics Dashboard</a></h3>
       <p><strong>Responsive Business Performance & Revenue Analytics Dashboard</strong></p>
-      <p>Interactive analytics dashboard delivering visibility into core business KPIs, revenue metrics, customer acquisition, and conversion rates.</p>
+      <p>Interactive analytics dashboard providing real-time visibility into business KPIs, revenue metrics, customer acquisition, and conversion rates.</p>
       <ul>
         <li>Production application built with <strong>React 19</strong>, <strong>TypeScript</strong>, and <strong>Vite</strong></li>
         <li>Interactive charting and data visualizations powered by <strong>Recharts</strong></li>
-        <li>Responsive, modern interface styled with <strong>Tailwind CSS</strong> and accessible component patterns</li>
+        <li>Responsive interface styled with <strong>Tailwind CSS</strong> and accessible component patterns</li>
         <li>Continuous deployment pipeline configured on Vercel</li>
       </ul>
       <p>
@@ -173,7 +191,7 @@ I actively contribute bug fixes, test improvements, and tooling enhancements to 
 
 #### 1. 🔷 [Hiero Ledger Solo](https://github.com/hiero-ledger/solo)
 > An opinionated CLI deployment and orchestration tool to deploy, configure, and manage standalone Hedera / Hiero distributed consensus test networks.  
-> **Upstream:** [`hiero-ledger/solo`](https://github.com/hiero-ledger/solo) &nbsp;|&nbsp; **Fork:** [`mayanksinha17/solo`](https://github.com/mayanksinha17/solo)
+> **Upstream:** [`hiero-ledger/solo`](https://github.com/hiero-ledger/solo) &nbsp;|&nbsp; **Personal Fork:** [`mayanksinha17/solo`](https://github.com/mayanksinha17/solo)
 
 ##### Merged Pull Requests:
 - [**hiero-ledger/solo#6343**](https://github.com/hiero-ledger/solo/pull/6343) `[Merged]` — `fix: reject unparseable --admin-public-keys instead of generating fallback key`  
@@ -199,7 +217,7 @@ I actively contribute bug fixes, test improvements, and tooling enhancements to 
 
 #### 2. 🥗 [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server)
 > The world’s largest collaborative, open-source food product database and API server.  
-> **Upstream:** [`openfoodfacts/openfoodfacts-server`](https://github.com/openfoodfacts/openfoodfacts-server) &nbsp;|&nbsp; **Fork:** [`mayanksinha17/openfoodfacts-server`](https://github.com/mayanksinha17/openfoodfacts-server)
+> **Upstream:** [`openfoodfacts/openfoodfacts-server`](https://github.com/openfoodfacts/openfoodfacts-server) &nbsp;|&nbsp; **Personal Fork:** [`mayanksinha17/openfoodfacts-server`](https://github.com/mayanksinha17/openfoodfacts-server)
 
 ##### Merged Pull Request:
 - [**openfoodfacts-server#15114**](https://github.com/openfoodfacts/openfoodfacts-server/pull/15114) `[Merged]` — `fix(nutrition): preserve higher-priority energy source (#14505)`  
@@ -287,7 +305,7 @@ I actively contribute bug fixes, test improvements, and tooling enhancements to 
 
 <br/>
 
-<!-- Footer Waving Curve -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=180,7928ca,4facfe,00f2fe&height=120&section=footer" width="100%" alt="Footer Banner" />
+<!-- Footer Waving Curve (Deep Navy -> Violet -> Electric Blue -> Cyan) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=180,0d1117,7c3aed,2563eb,06b6d4&height=100&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
